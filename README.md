@@ -8,7 +8,7 @@ All levels are open to you. You are encouraged to complete as many levels as you
 
 # Levels
 
-[Level 0 (Basic Programming)](https://github.com/LearnWeb3DAO/Basic-Programming)
+[Level 0 (Basic Programming)]([https://github.com/LearnWeb3DAO/Basic-Programming](https://github.com/Kraibonaut/Basic-Programming-French/tree/Kraibonaut-patch-1))
 
 [Level 1 (What is Blockchain)](https://github.com/LearnWeb3DAO/What-is-Blockchain)
 
