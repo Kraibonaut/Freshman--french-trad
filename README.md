@@ -15,7 +15,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 2 (What is Web3)](https://github.com/LearnWeb3DAO/What-is-Web3)
 
-[Level 3 (What is ETH)](https://github.com/LearnWeb3DAO/What-is-ETH)
+[Level 3 (What is ETH)](https://github.com/Kraibonaut/What-is-ETH-fr)
 
 [Level 4 (Crypto Wallets)](https://github.com/LearnWeb3DAO/Crypto-Wallets)
 
