@@ -1,10 +1,11 @@
 # Freshman Skill Tree
 
-Hello everyone! This is the official LearnWeb3DAO Freshman Track skill tree. 🌴
+Bonjour à tous ! Voici l'arbre de compétences officiel de LearnWeb3DAO Freshman Track.  🌴
 
-Here you will be able to start your web3 developer journey. From **zero** to **hero**, we will take you from setting up your first crypto-wallet all the way to creating a DAO.
+C'est ici que vous pourrez commencer votre parcours de développeur web3. De **zéro** à **héros**, nous vous emmènerons de la mise en place de votre premier crypto-wallet jusqu'à la création d'une DAO.
 
-All levels are open to you. You are encouraged to complete as many levels as you can, take the skill tests, and leave feedback. Those of you who are able to graduate will receive the "**Early Contributor**" role. ✈️
+
+Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant de niveaux que possible, à passer les tests de compétences et à laisser des commentaires. Ceux d'entre vous qui parviendront à obtenir leur diplôme recevront le rôle de "**Early Contributor**". ✈️
 
 # Levels
 
