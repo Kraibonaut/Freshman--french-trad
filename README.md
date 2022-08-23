@@ -17,7 +17,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 3 (What is ETH)](https://github.com/Kraibonaut/What-is-ETH-fr)
 
-[Level 4 (Crypto Wallets)](https://github.com/LearnWeb3DAO/Crypto-Wallets)
+[Level 4 (Crypto Wallets)](https://github.com/Kraibonaut/Crypto-Wallets-fr)
 
 [Level 5 (Remix IDE)](https://github.com/LearnWeb3DAO/Remix)
 
