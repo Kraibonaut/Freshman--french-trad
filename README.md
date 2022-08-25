@@ -1,4 +1,4 @@
-# Freshman Skill Tree
+# Traduction FR Freshman Skill Tree
 
 Bonjour à tous ! Voici l'arbre de compétences officiel de LearnWeb3DAO Freshman Track.  🌴
 
@@ -7,7 +7,7 @@ C'est ici que vous pourrez commencer votre parcours de développeur web3. De **z
 
 Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant de niveaux que possible, à passer les tests de compétences et à laisser des commentaires. Ceux d'entre vous qui parviendront à obtenir leur diplôme recevront le rôle de "**Early Contributor**". ✈️
 
-# Levels
+# Niveaux
 
 [Level 0 (Basic Programming)](https://github.com/Kraibonaut/Basic-Programming-French/tree/Kraibonaut-patch-1)
 
