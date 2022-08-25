@@ -19,7 +19,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 4 (Crypto Wallets)](https://github.com/Kraibonaut/Crypto-Wallets-fr)
 
-[Level 5 (Remix IDE)](https://github.com/LearnWeb3DAO/Remix)
+[Level 5 (Remix IDE)](https://github.com/Kraibonaut/Remix-fr)
 
 [Level 6 (Solidity)](https://github.com/LearnWeb3DAO/Solidity)
 
