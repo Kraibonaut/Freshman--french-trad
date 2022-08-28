@@ -9,7 +9,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 # Niveaux
 
-[Level 0 (Basic Programming)](https://github.com/Kraibonaut/Basic-Programming-French/tree/Kraibonaut-patch-1)
+[Level 0 (Basic Programming)](https://github.com/Kraibonaut/Basic-Programming-FR)
 
 [Level 1 (What is Blockchain)](https://github.com/Kraibonaut/What-is-Blockchain-fr)
 
