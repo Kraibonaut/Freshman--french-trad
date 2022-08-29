@@ -23,7 +23,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 6 (Solidity)](https://github.com/Kraibonaut/Solidity-fr)
 
-[Level 7 (dApp)](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
+[Level 7 (dApp)](https://github.com/Kraibonaut/BasicFrontEndTutorial-fr/blob/master/README.md)
 
 [Level 8 (Cryptocurrency)](https://github.com/LearnWeb3DAO/CryptocurrencyTutorial)
 
