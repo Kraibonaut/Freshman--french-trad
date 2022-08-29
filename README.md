@@ -21,7 +21,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 5 (Remix IDE)](https://github.com/Kraibonaut/Remix-fr)
 
-[Level 6 (Solidity)](https://github.com/LearnWeb3DAO/Solidity)
+[Level 6 (Solidity)](https://github.com/Kraibonaut/Solidity-fr)
 
 [Level 7 (dApp)](https://github.com/LearnWeb3DAO/BasicFrontEndTutorial)
 
