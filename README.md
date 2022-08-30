@@ -23,7 +23,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 6 (Solidity)](https://github.com/Kraibonaut/Solidity-fr)
 
-[Level 7 (dApp)]()
+[Level 7 (dApp)](https://github.com/Kraibonaut/BasicFrontEndTutorial-fr)
 
 [Level 8 (Cryptocurrency)](https://github.com/Kraibonaut/CryptocurrencyTutorial-FR)
 
