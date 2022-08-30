@@ -25,7 +25,7 @@ Tous les niveaux vous sont ouverts. Nous vous encourageons à compléter autant 
 
 [Level 7 (dApp)](https://github.com/Kraibonaut/BasicFrontEndTutorial-fr/blob/master/README.md)
 
-[Level 8 (Cryptocurrency)](https://github.com/LearnWeb3DAO/CryptocurrencyTutorial)
+[Level 8 (Cryptocurrency)](https://github.com/Kraibonaut/CryptocurrencyTutorial-FR/blob/main/README.md)
 
 [Level 9 (NFT)](https://github.com/LearnWeb3DAO/NFT-Tutorial)
 
