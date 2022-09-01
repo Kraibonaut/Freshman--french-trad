@@ -1,6 +1,6 @@
 # Traduction FR Freshman Skill Tree
 
-Bonjour à tous ! Voici l'arbre de compétences officiel de LearnWeb3DAO Freshman Track.  🌴
+Bonjour à tous ! Voici l'arbre de compétences officiel de LearnWeb3DAO Freshman Track traduite en français.  🌴
 
 C'est ici que vous pourrez commencer votre parcours de développeur web3. De **zéro** à **héros**, nous vous emmènerons de la mise en place de votre premier crypto-wallet jusqu'à la création d'une DAO.
 
